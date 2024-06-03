@@ -1894,3 +1894,31 @@ section {
   color: #fff;
   text-decoration: none;
 }
+/* USER */
+.container-petunjuk{
+  margin-top : 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 15px;
+  display: flex;
+  justify-content: center; 
+  padding-right: 15px;
+}
+.card-petunjuk {
+  width: 18em;
+  height: 13em;
+  box-shadow: 0 0 29px 0 rgba(18, 66, 101, 0.1);
+  text-align: center;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+  padding: 5px;
+  margin-top: 10px;
+  justify-content: center;
+}
+.card-petunjuk:hover {
+  transform: scale(1.08);
+  box-shadow: 0 0 29px 0 #87c1ea;
+}
+.card-header {
+  font-weight: 600;
+}
