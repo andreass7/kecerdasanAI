@@ -44,7 +44,7 @@
                     </div>
                     <div class="member-info">
                         <h4>Andreas Adi Prasetyo</h4>
-                        <span>213300</span>
+                        <span>21330026</span>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                     </div>
                     <div class="member-info">
                         <h4>Budi Anggoro Sajiwo Putro</h4>
-                        <span>213300</span>
+                        <span>21330020</span>
                     </div>
                 </div>
             </div>
