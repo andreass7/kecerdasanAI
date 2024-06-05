@@ -5,8 +5,8 @@
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
         <div class="row justify-content-center">
             <div class="col-xl-7 col-lg-9 text-center">
-                <h1>One Page Bootstrap Website Template</h1>
-                <h2>We are team of talented designers</h2>
+                <h1>Desa Wisata Kabupaten Sleman</h1>
+                <h7>Implementasi Data Untuk Mengelompokkan Desa Wisata Terfavorit di Sleman Denagn Metode KNN Euclidiance Distance</h7>
             </div>
         </div>
         <div class="text-center">
