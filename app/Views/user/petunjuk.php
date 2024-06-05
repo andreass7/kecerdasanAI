@@ -10,31 +10,31 @@
                         Home
                     </div>
                     <hr>
-                    <div>
-                        apakah
+                    <div class="p-4">
+                        Halaman Utama dari website Desa Wisata Daerah Sleman
                     </div>
                 </div>
             </div>
 
             <div class="col-lg-4 col-sm-12" data-aos="zoom-in" data-aos-delay="200">
-                <div class="card-petunjuk">
+                <div class="card-petunjuk2">
                     <div class="card-header">
                         Desa Wisata
                     </div>
                     <hr>
-                    <div>
-                        apakah
+                    <div class="p-4">
+                        Tempat Desa yang menjadi objek wisata untuk bahan penelitian
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-12" data-aos="zoom-in" data-aos-delay="200">
-                <div class="card-petunjuk">
+                <div class="card-petunjuk3">
                     <div class="card-header">
                         Pengembang
                     </div>
                     <hr>
-                    <div>
-                        apakah
+                    <div class="p-4">
+                        perancang dan pembuat projek website dan penelitian ini
                     </div>
                 </div>
             </div>

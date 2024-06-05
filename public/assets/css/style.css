@@ -1934,6 +1934,36 @@ section {
   transform: scale(1.08);
   box-shadow: 0 0 29px 0 #87c1ea;
 }
+.card-petunjuk2 {
+  width: 18em;
+  height: 13em;
+  box-shadow: 0 0 29px 0 rgba(18, 66, 101, 0.1);
+  text-align: center;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+  padding: 5px;
+  margin-top: 10px;
+  justify-content: center;
+}
+.card-petunjuk2:hover {
+  transform: scale(1.08);
+  box-shadow: 0 0 29px 0 #c987ea;
+}
+.card-petunjuk3 {
+  width: 18em;
+  height: 13em;
+  box-shadow: 0 0 29px 0 rgba(18, 66, 101, 0.1);
+  text-align: center;
+  border-radius: 10px;
+  transition: all 0.3s ease-in-out;
+  padding: 5px;
+  margin-top: 10px;
+  justify-content: center;
+}
+.card-petunjuk3:hover {
+  transform: scale(1.08);
+  box-shadow: 0 0 29px 0 #87eaaa;
+}
 .card-header {
   font-weight: 600;
 }
