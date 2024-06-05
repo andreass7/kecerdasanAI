@@ -44,7 +44,7 @@
     <header id="header" class="fixed-top">
         <div class="container d-flex align-items-center justify-content-between">
 
-            <h1 class="logo"><a href="index.html">OnePage</a></h1>
+            <h1 class="logo"></h1>
             <!-- Uncomment below if you prefer to use an image logo -->
             <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -62,6 +62,7 @@
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="<?php echo base_url('/pengembang') ?>">Pengembang</a></li>
+                    <li><a href="<?php echo base_url('/') ?>"><img src="assets/img/log.svg" alt="logout"></a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
