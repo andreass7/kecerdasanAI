@@ -1,10 +1,6 @@
 <?php $this->extend('layout/layout') ?>
 <?php $this->section('content') ?>
 
-<head>
-    <style>
-    </style>
-</head>
 <section id="desa" class="desa section-bg">
     <div class="container" data-aos="fade-up">
         <div class="section-title">
