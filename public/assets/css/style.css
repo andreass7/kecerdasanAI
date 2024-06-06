@@ -1964,9 +1964,14 @@ section {
 }
 
 .deskripsi {
-  text-align: justify;
+  margin-top: 80;
+  text-align: ;
   font-size: 16px;
   line-height: 1.6;
+}
+
+.deskripsi span {
+  font-weight: bold;
 }
 
 .member {

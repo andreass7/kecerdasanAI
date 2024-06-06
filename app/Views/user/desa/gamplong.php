@@ -8,12 +8,14 @@
 <section id="desa" class="desa section-bg">
     <div class="container" data-aos="fade-up">
         <div class="section-title">
-            <h2 class="namadesa">Desa Wisata Nganggring</h2>
-            <img src="assets/img/desa/nganggring.jpg" alt="" class="desa-img">
+            <h2 class="namadesa">Desa Wisata Gamplong</h2>
+            <img src="assets/img/desa/gamplong.jpg" alt="" class="desa-img">
             <p class="deskripsi">
                 Desa Wisata Nganggring adalah salah satu destinasi wisata yang terletak di Kabupaten Sleman, Yogyakarta, Indonesia. Desa ini terkenal karena menawarkan pengalaman wisata yang autentik dengan suasana pedesaan yang asri dan berbagai aktivitas yang mencerminkan kehidupan dan budaya lokal. Berikut adalah beberapa hal yang bisa Anda temukan dan nikmati di Desa Wisata Nganggring:
                 <br><br>
-                1. Keindahan Alam: Desa Wisata Nganggring dikelilingi oleh pemandangan alam yang indah, termasuk sawah, kebun, dan perbukitan. Pengunjung dapat menikmati suasana pedesaan yang tenang dan segar.
+                <span> 1. Keindahan Alam:</span>
+                <br>
+                Desa Wisata Nganggring dikelilingi oleh pemandangan alam yang indah, termasuk sawah, kebun, dan perbukitan. Pengunjung dapat menikmati suasana pedesaan yang tenang dan segar.
                 <br><br>
                 2. Kegiatan Pertanian: Pengunjung dapat belajar dan berpartisipasi dalam kegiatan pertanian tradisional, seperti menanam padi, memetik sayuran, dan merawat tanaman. Ini memberikan pengalaman langsung tentang kehidupan petani lokal.
                 <br><br>
