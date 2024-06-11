@@ -11,27 +11,9 @@
             <h2 class="namadesa">Desa Wisata Gamplong</h2>
             <img src="assets/img/desa/gamplong.jpg" alt="" class="desa-img">
             <p class="deskripsi">
-                Desa Wisata Nganggring adalah salah satu destinasi wisata yang terletak di Kabupaten Sleman, Yogyakarta, Indonesia. Desa ini terkenal karena menawarkan pengalaman wisata yang autentik dengan suasana pedesaan yang asri dan berbagai aktivitas yang mencerminkan kehidupan dan budaya lokal. Berikut adalah beberapa hal yang bisa Anda temukan dan nikmati di Desa Wisata Nganggring:
-                <br><br>
-                <span> 1. Keindahan Alam:</span>
-                <br>
-                Desa Wisata Nganggring dikelilingi oleh pemandangan alam yang indah, termasuk sawah, kebun, dan perbukitan. Pengunjung dapat menikmati suasana pedesaan yang tenang dan segar.
-                <br><br>
-                2. Kegiatan Pertanian: Pengunjung dapat belajar dan berpartisipasi dalam kegiatan pertanian tradisional, seperti menanam padi, memetik sayuran, dan merawat tanaman. Ini memberikan pengalaman langsung tentang kehidupan petani lokal.
-                <br><br>
-                3. Budaya dan Tradisi: Desa ini juga menawarkan berbagai pertunjukan budaya dan seni tradisional, seperti tarian, musik gamelan, dan kerajinan tangan. Pengunjung dapat belajar tentang budaya Jawa dan melihat langsung bagaimana tradisi ini dijaga dan dilestarikan.
-                <br><br>
-                4. Wisata Edukasi: Desa Wisata Nganggring sering menjadi tempat kunjungan edukatif bagi siswa dan kelompok studi yang ingin belajar tentang pertanian, ekologi, dan budaya Jawa. Ada program-program khusus yang dirancang untuk memberikan wawasan dan pengetahuan kepada para pengunjung.
-                <br><br>
-                5. Penginapan dan Homestay: Untuk menikmati pengalaman yang lebih mendalam, pengunjung dapat menginap di homestay yang disediakan oleh warga desa. Ini memungkinkan pengunjung merasakan kehidupan sehari-hari masyarakat desa secara lebih dekat.
-                <br><br>
-                6. Kuliner Tradisional: Desa ini juga menawarkan berbagai kuliner tradisional yang lezat. Pengunjung dapat mencicipi makanan khas desa yang dibuat dengan bahan-bahan segar dan resep turun-temurun.
-                <br><br>
-                7. Aktivitas Wisata: Ada banyak aktivitas wisata yang bisa dilakukan, seperti bersepeda keliling desa, trekking, dan berkunjung ke tempat-tempat menarik di sekitar desa.
-                <br><br>
-                8. Kerajinan Tangan: Desa ini juga dikenal dengan kerajinan tangan lokal seperti anyaman bambu, batik, dan kerajinan kayu. Pengunjung bisa belajar membuat kerajinan ini dan membawa pulang hasil karya mereka sebagai oleh-oleh.
-                <br><br>
-                Kesimpulan: Desa Wisata Nganggring menawarkan pengalaman yang menyeluruh dan autentik tentang kehidupan pedesaan Jawa, budaya, dan tradisi. Ini adalah destinasi yang ideal bagi mereka yang ingin menikmati keindahan alam, belajar tentang pertanian tradisional, dan merasakan keramahan masyarakat lokal.
+                Desa Wisata Gamplong merupakan salah satu tujuan pariwisata yang
+                cukup terkenal di Kabupaten Sleman. Dalam lima tahun terakhir jumlah pengunjung Desa Wisata Gamplong selalu mengalami kenaikan, hanya saja saat pandemi Covid-19 mengalami penurunan. Pada tahun 2017 Desa Wisata Gamplong menjuarai ajang “Festival Desa Wisata Sleman 2017” yang diadakan oleh Dinas Pariwisata Sleman sehingga mengukuhkan sebagai desa wisata terbaik kategori desa wisata mandiri. Pengembangan Desa Wisata Gamplong sendiri sesuai dengan Peraturan Daerah (Perda) Sleman Nomor 11 tahun 2015 Tentang Rencana Induk Pembangunan Kepariwisataan Daerah Tahun 2015-2025, yang mana pembangunan kepariwisataan harus berlandaskan prinsip pariwisata berkelanjutan. Pengembangan Desa Wisata Gamplong dilakukan di Dusun Gamplong, yang mana hal tersebut menjadikan masyarakat Dusun Gamplong sebagai salah satu
+                pemangku kepentingan (stakeholder) dalam pengembangan Desa Wisata Gamplong. Tentu saja baik secara langsung maupun tidak langsung pengembangan Desa Wisata Gamplong akan berdampak kepada masyarakat lokal. Masyarakat lokal merupakan pihak terdepan yang terdampak akan adanya desa wisata. Oleh karena itu masyarakat lokal memainkan peran penting dalam pengembangan desa wisata
             </p>
         </div>
 

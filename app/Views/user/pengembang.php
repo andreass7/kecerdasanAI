@@ -6,7 +6,7 @@
         <div class="section-title">
             <h2>Pengembang</h2>
             <p>
-                Website ini ditujukan untuk memenuhi tugas project mata kuliah kecerdasan buatan dengan dosen pengambu Ibu Yumarlin
+                Website ini ditujukan untuk memenuhi tugas project mata kuliah kecerdasan buatan dengan dosen pengambu Ibu Yumarlin Mz, S.Kom., M.pd., M.Kom
             </p>
         </div>
 

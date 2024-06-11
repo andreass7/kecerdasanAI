@@ -1361,6 +1361,11 @@ section {
 .team .member:hover .social {
   opacity: 1;
 }
+.section-title p {
+  font-size: 18px; /* Sesuaikan ukuran font sesuai kebutuhan Anda */
+  font-weight: 100;
+  padding-bottom: 0px;
+}
 
 /*--------------------------------------------------------------
 # Pricing
@@ -1975,7 +1980,8 @@ section {
 }
 
 .namadesa {
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 40px;
 }
 
 .desa-img {
@@ -1994,6 +2000,7 @@ section {
 }
 
 .deskripsi {
+  padding-top: 80;
   margin-top: 80;
   text-align: center;
   font-size: 16px;
@@ -2049,9 +2056,12 @@ section {
   margin-bottom: 5px;
 }
 
-.deskripsi {
-  font-size: 8px; /* Ukuran font yang lebih besar */
-  color: #000000; /* Warna hitam solid */
+.section-title p.deskripsi {
+  font-size: 1em; /* Ukuran font lebih besar */
+  font-weight: 400; /* Ketebalan font normal */
+  color: #6c757d;
   text-align: justify;
+  margin-bottom: 40px;
   line-height: 1.6;
+  padding: 0 20px;
 }
