@@ -45,4 +45,5 @@
         </div>
     </div>
 </section><!-- End Hero -->
+
 <?php $this->endSection() ?>

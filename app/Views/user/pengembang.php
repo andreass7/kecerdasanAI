@@ -15,12 +15,12 @@
                 <div class="member">
                     <div class="member-img">
                         <img src="assets/img/team/1.jpg" class="img-fluid" alt="" />
-                        <div class="social">
+                        <!-- <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             <a href=""><i class="bi bi-facebook"></i></a>
                             <a href=""><i class="bi bi-instagram"></i></a>
                             <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="member-info">
                         <h4>Yumarlin Mz, S.Kom., M.pd., M.Kom</h4>
@@ -35,12 +35,12 @@
                 <div class="member">
                     <div class="member-img">
                         <img src="assets/img/team/11.jpg" class="img-fluid" alt="" />
-                        <div class="social">
+                        <!-- <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             <a href=""><i class="bi bi-facebook"></i></a>
                             <a href=""><i class="bi bi-instagram"></i></a>
                             <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="member-info">
                         <h4>Andreas Adi Prasetyo</h4>
@@ -53,12 +53,12 @@
                 <div class="member">
                     <div class="member-img">
                         <img src="assets/img/team/13.jpg" class="img-fluid" alt="" />
-                        <div class="social">
+                        <!-- <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             <a href=""><i class="bi bi-facebook"></i></a>
                             <a href=""><i class="bi bi-instagram"></i></a>
                             <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="member-info">
                         <h4>Budi Anggoro Sajiwo Putro</h4>
@@ -71,12 +71,12 @@
                 <div class="member">
                     <div class="member-img">
                         <img src="assets/img/team/12.jpg" class="img-fluid" alt="" />
-                        <div class="social">
+                        <!-- <div class="social">
                             <a href=""><i class="bi bi-twitter"></i></a>
                             <a href=""><i class="bi bi-facebook"></i></a>
                             <a href=""><i class="bi bi-instagram"></i></a>
                             <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="member-info">
                         <h4>Moch. Ghufron Amin As Ari</h4>
