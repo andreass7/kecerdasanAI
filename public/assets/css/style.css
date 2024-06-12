@@ -1998,7 +1998,16 @@ section {
   transform: scale(1.05);
   opacity: 0.8;
 }
+.desa .deskripsi {
+  margin-bottom: 5px; /* Atur jarak bawah dari deskripsi */
+}
+.highlight {
+  font-weight: bold;
+}
 
+.member {
+  margin-top: 5px; /* Atur jarak atas dari elemen member */
+}
 .deskripsi {
   padding-top: 80;
   margin-top: 80;

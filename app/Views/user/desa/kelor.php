@@ -14,10 +14,11 @@
         </div>
 
         <div class="row">
+            <p class="highlihgt">Kegiatan Wisata:</p>
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/nganggring1.jpg" class="img-fluid" alt="" />
+                        <img src="assets/img/desa/kelor1.jpg" class="img-fluid" alt="" />
                     </div>
                     <div class="member-info">
                         <h4>Wisata Edukasi Pemerahan Susu Kambing</h4>
@@ -28,7 +29,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/nganggring2.jpg" class="img-fluid" alt="" />
+                        <img src="assets/img/desa/kelor2.jpg" class="img-fluid" alt="" />
 
                     </div>
                     <div class="member-info">
@@ -41,7 +42,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/nganggring3.jpg" class="img-fluid" alt="" />
+                        <img src="assets/img/desa/kelor3.jpg" class="img-fluid" alt="" />
 
                     </div>
                     <div class="member-info">
@@ -54,7 +55,7 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/nganggring4.jpg" class="img-fluid" alt="" />
+                        <img src="assets/img/desa/kelor4.jpg" class="img-fluid" alt="" />
 
                     </div>
                     <div class="member-info">

@@ -18,13 +18,14 @@
         </div>
 
         <div class="row">
+            <p class="highlihgt">Kegiatan Wisata:</p>
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/nganggring1.jpg" class="img-fluid" alt="" />
+                        <img src="assets/img/desa/gamplong1.jpg" class="img-fluid" alt="" />
                     </div>
                     <div class="member-info">
-                        <h4>Wisata Edukasi Pemerahan Susu Kambing</h4>
+                        <h4>Lokasi Syuting Bumi Manusia</h4>
 
                     </div>
                 </div>
@@ -32,11 +33,11 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/nganggring2.jpg" class="img-fluid" alt="" />
+                        <img src="assets/img/desa/gamplong2.jpg" class="img-fluid" alt="" />
 
                     </div>
                     <div class="member-info">
-                        <h4>Pemerahan Susu Kambing</h4>
+                        <h4>Lokasi Syuting Habibie Ainun</h4>
 
                     </div>
                 </div>
@@ -45,11 +46,11 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/nganggring3.jpg" class="img-fluid" alt="" />
+                        <img src="assets/img/desa/gamplong3.jpg" class="img-fluid" alt="" />
 
                     </div>
                     <div class="member-info">
-                        <h4>Kelompok Tani Mandiri</h4>
+                        <h4>Rumah Hantu Trinil</h4>
 
                     </div>
                 </div>
@@ -58,11 +59,11 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/nganggring4.jpg" class="img-fluid" alt="" />
+                        <img src="assets/img/desa/gamplong4.jpg" class="img-fluid" alt="" />
 
                     </div>
                     <div class="member-info">
-                        <h4>Wisata Edukasi Peternakan Kambing</h4>
+                        <h4>Kereta Wisata</h4>
 
                     </div>
                 </div>
