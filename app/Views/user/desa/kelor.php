@@ -21,7 +21,7 @@
                         <img src="assets/img/desa/kelor1.jpg" class="img-fluid" alt="" />
                     </div>
                     <div class="member-info">
-                        <h4>Wisata Edukasi Pemerahan Susu Kambing</h4>
+                        <h4>Homestay Desa wisata kelor</h4>
 
                     </div>
                 </div>
@@ -33,7 +33,7 @@
 
                     </div>
                     <div class="member-info">
-                        <h4>Pemerahan Susu Kambing</h4>
+                        <h4>Kegiatan Makrab</h4>
 
                     </div>
                 </div>
@@ -46,7 +46,7 @@
 
                     </div>
                     <div class="member-info">
-                        <h4>Kelompok Tani Mandiri</h4>
+                        <h4>Desa Wisata Kelor</h4>
 
                     </div>
                 </div>
@@ -59,7 +59,7 @@
 
                     </div>
                     <div class="member-info">
-                        <h4>Wisata Edukasi Peternakan Kambing</h4>
+                        <h4>Keindahan Alam Desa Wisata Kelor</h4>
 
                     </div>
                 </div>
