@@ -19,48 +19,10 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/ktj1.jpg" class="img-fluid" alt="" />
-                    </div>
-                    <div class="member-info">
-                        <h4>Wisata Embung/Danau Buatan</h4>
-
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                <div class="member">
-                    <div class="member-img">
                         <img src="assets/img/desa/ktj2.jpg" class="img-fluid" alt="" />
-
                     </div>
                     <div class="member-info">
                         <h4>Wisata kereta Sapi</h4>
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-                <div class="member">
-                    <div class="member-img">
-                        <img src="assets/img/desa/ktj3.jpg" class="img-fluid" alt="" />
-
-                    </div>
-                    <div class="member-info">
-                        <h4>Event Musik Tahunan Ngayogjazz</h4>
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-                <div class="member">
-                    <div class="member-img">
-                        <img src="assets/img/desa/ktj4.jpg" class="img-fluid" alt="" />
-
-                    </div>
-                    <div class="member-info">
-                        <h4>Keindahan Alam Desa Karangtanjung</h4>
 
                     </div>
                 </div>

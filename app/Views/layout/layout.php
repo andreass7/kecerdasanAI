@@ -61,6 +61,7 @@
                             <li><a href="<?php echo base_url('/desaGamplong') ?>">Desa Wisata Gamplong</a></li>
                         </ul>
                     </li>
+                    <li><a class="nav-link scrollto" href="<?php echo base_url('/pengembang') ?>">Perhitungan</a></li>
                     <li><a class="nav-link scrollto" href="<?php echo base_url('/pengembang') ?>">Pengembang</a></li>
                     <li><a href="<?php echo base_url('/') ?>"><img src="assets/img/log.svg" alt="logout"></a></li>
                 </ul>

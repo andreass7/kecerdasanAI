@@ -16,7 +16,7 @@
         </div>
 
         <div class="row">
-            <p class="highlihgt">Kegiatan Wisata:</p>
+
             <p class="highlihgt">Kegiatan Wisata:</p>
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
@@ -32,11 +32,11 @@
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
                     <div class="member-img">
-                        <img src="assets/img/desa/pancoh4.jpg" class="img-fluid" alt="" />
+                        <img src="assets/img/desa/kelor2.jpg" class="img-fluid" alt="" />
 
                     </div>
                     <div class="member-info">
-                        <h4>Wisata Outbound Susur Sungai</h4>
+                        <h4>Kegiatan Makrab</h4>
 
                     </div>
                 </div>

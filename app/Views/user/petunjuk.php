@@ -1,45 +1,79 @@
-<?php $this->extend('layout/layout') ?>
-<?php $this->section('content') ?>
+<?php $this->extend('layout/layout'); ?>
+<?php $this->section('content'); ?>
+<!-- ======= Hero Section ======= -->
+<img src="assets/img/desa/kiki.jpg" alt="" srcset="" class="img-full-width">
+<section id="hero" class="d-flex align-items-center justify-content-center">
 
-<section class="petunjuk">
-    <div class="container-petunjuk d-flex justify-content-center">
+    <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
         <div class="row justify-content-center">
-            <div class="col-lg-4 col-sm-12" data-aos="zoom-in" data-aos-delay="200">
-                <div class="card-petunjuk">
-                    <div class="card-header">
-                        Home
+            <div class="col-xl-7 col-lg-9 text-center my-5">
+                <!-- <h1>Welcome</h1>
+                <h2>Desa Wisata Terfavorit Kabupaten Sleman</h2> -->
+            </div>
+        </div>
+
+        <div class="container mt-4">
+            <!-- <h3 class="text-center">Desa Wisata di Kab. Sleman</h3> -->
+            <div class="row justify-content-center mb-4">
+                <!-- <div class="col-md-6">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Cari Desa Wisata ...">
+                        <div class="input-group-append">
+                            <button class="btn btn-danger" type="button">Search</button>
+                        </div>
                     </div>
-                    <hr>
-                    <div class="p-4">
-                        Halaman Utama dari website Desa Wisata Daerah Sleman
-                    </div>
-                </div>
+                </div> -->
             </div>
 
-            <div class="col-lg-4 col-sm-12" data-aos="zoom-in" data-aos-delay="200">
-                <div class="card-petunjuk2">
-                    <div class="card-header">
-                        Desa Wisata
-                    </div>
-                    <hr>
-                    <div class="p-4">
-                        Tempat Desa yang menjadi objek wisata untuk bahan penelitian
+            <div class="row justify-content-center">
+                <div class="col-md-3 mb-4 d-flex justify-content-center">
+                    <div class="card">
+                        <img src="assets/img/desa/nganggringg.jpg" class="img-fluid" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Desa Wisata <br> Nganggringg</h5>
+                            <!-- <p class="card-text">Masuk menjadi salah satu dari 50 desa...</p> -->
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-sm-12" data-aos="zoom-in" data-aos-delay="200">
-                <div class="card-petunjuk3">
-                    <div class="card-header">
-                        Pengembang
+                <div class="col-md-3 mb-4 d-flex justify-content-center">
+                    <div class="card">
+                        <img src="assets/img/desa/kelor.jpg" class="img-fluid" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Desa Wisata <br>Kelor</h5>
+                            <!-- <p class="card-text">Desa Gumeng merupakan salah satu desa di Kecamatan Gondang...</p> -->
+                        </div>
                     </div>
-                    <hr>
-                    <div class="p-4">
-                        perancang dan pembuat projek website dan penelitian ini
+                </div>
+                <div class="col-md-3 mb-4 d-flex justify-content-center">
+                    <div class="card">
+                        <img src="assets/img/desa/karangtanjung.jpg" class="img-fluid" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Desa Wisata <br>Kampung Iklim Karangtanjung</h5>
+                            <!-- <p class="card-text">Desa Selotapak memiliki objek wisata alam pedesaan indah...</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-4 d-flex justify-content-center">
+                    <div class="card">
+                        <img src="assets/img/desa/pancoh.jpeg" class="img-fluid" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Desa Wisata<br>Pancoh</h5>
+                            <!-- <p class="card-text">Desa Ketapanrame secara geografis terletak di ketinggian 700 - 1200m...</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-4 d-flex justify-content-center">
+                    <div class="card">
+                        <img src="assets/img/desa/gaamplongg.jpg" class="img-fluid" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Desa Wisata<br>Gamplong</h5>
+                            <!-- <p class="card-text">Desa Ketapanrame secara geografis terletak di ketinggian 700 - 1200m...</p> -->
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</section><!-- End Hero -->
 
 <?php $this->endSection() ?>
