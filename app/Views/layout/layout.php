@@ -84,9 +84,9 @@
                     <div class="col-lg-4 col-md-4 footer-contact">
                         <h3>Universitas Janabadra</h3>
                         <p>
-                            A108 Adam Street <br>
-                            New York, NY 535022<br>
-                            United States <br><br>
+                            Jl. Tentara Rakyat Mataram No.55-57<br>
+                            Bumijo, Kec. Jetis, Kota Yogyakarta <br>
+                            Daerah Istimewa Yogyakarta <br><br>
 
                         </p>
                     </div>
@@ -127,6 +127,9 @@
 
     <!-- Template Main JS File -->
     <script src="assets/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 </body>
 

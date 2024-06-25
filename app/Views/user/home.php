@@ -5,43 +5,62 @@
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
         <div class="row justify-content-center">
             <div class="col-xl-7 col-lg-9 text-center my-5">
-                <h1>Desa Wisata Kabupaten Sleman</h1>
+                <h1>Welcome</h1>
+                <h2>Desa Wisata Terfavorit Kabupaten Sleman</h2>
             </div>
         </div>
 
-        <div class="row icon-boxes">
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
-                <div class="icon-box">
-                    <div class="icon"><i class="ri-stack-line"></i></div>
-                    <h4 class="title"><a href="">Topik</a></h4>
-                    <p class="description">Implementasi Data Untuk Mengelompokkan Desa Wisata Terfavorit di Sleman Denagn Metode KNN Euclidiance Distance</p>
-                </div>
+        <div class="container mt-4">
+            <!-- <h3 class="text-center">Desa Wisata di Kab. Sleman</h3> -->
+            <div class="row justify-content-center mb-4">
+                <!-- <div class="col-md-6">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Cari Desa Wisata ...">
+                        <div class="input-group-append">
+                            <button class="btn btn-danger" type="button">Search</button>
+                        </div>
+                    </div>
+                </div> -->
             </div>
 
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
-                <div class="icon-box">
-                    <div class="icon"><i class="ri-palette-line"></i></div>
-                    <h4 class="title"><a href="">Mata Kuliah</a></h4>
-                    <p class="description">Kecerdasan Buatan / <span style="font-style: italic;"> Artificial Intelegence </span></p>
+            <div class="row">
+                <div class="col-md-3 mb-4">
+                    <div class="card">
+                        <img src="assets/img/desa/nganggring.jpg" class="img-fluid" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Desa Wisata Nganggringg</h5>
+                            <!-- <p class="card-text">Masuk menjadi salah satu dari 50 desa...</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-4">
+                    <div class="card">
+                        <img src="assets/img/desa/kelor.jpg" class="img-fluid" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Desa Wisata Kelor</h5>
+                            <!-- <p class="card-text">Desa Gumeng merupakan salah satu desa di Kecamatan Gondang...</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-4">
+                    <div class="card">
+                        <img src="assets/img/desa/karangtanjung.jpg" class="img-fluid" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Desa Wisata Pancoh</h5>
+                            <!-- <p class="card-text">Desa Selotapak memiliki objek wisata alam pedesaan indah...</p> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 mb-4">
+                    <div class="card">
+                        <img src="assets/img/desa/pancoh.jpeg" class="img-fluid" alt="" />
+                        <div class="card-body">
+                            <h5 class="card-title text-center">Desa Wisata Kampung Iklim Karangtanjung</h5>
+                            <!-- <p class="card-text">Desa Ketapanrame secara geografis terletak di ketinggian 700 - 1200m...</p> -->
+                        </div>
+                    </div>
                 </div>
             </div>
-
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="400">
-                <div class="icon-box">
-                    <div class="icon"><i class="ri-command-line"></i></div>
-                    <h4 class="title"><a href="">Dosen Pengampu</a></h4>
-                    <p class="description"> <span style="font-weight: 700;"> Yumarlin Mz, S.Kom., M.pd., M.Kom</span> selaku Dosen pembimbing untuk mata kuliah Artificial Intelegence </p>
-                </div>
-            </div>
-
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="500">
-                <div class="icon-box">
-                    <div class="icon"><i class="ri-fingerprint-line"></i></div>
-                    <h4 class="title"><a href="">Universitas Janabadra</a></h4>
-                    <p class="description">tempat bernaung untuk menemimba ilmu serta menempuh jenjang pendidikan</p>
-                </div>
-            </div>
-
         </div>
     </div>
 </section><!-- End Hero -->
