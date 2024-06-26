@@ -15,7 +15,7 @@
     <div class="container-login">
         <div class="card" data-aos="fade-left" data-aos-delay="500">
             <div class="card-headerr">
-                <h1>Login</h1>
+                <h1>Buat Akun</h1>
             </div>
             <form action="" method="POST">
                 <div class="form-group">
@@ -23,12 +23,20 @@
                     <input type="text" class="form-control" id="name" name="name" required autofocus>
                 </div>
                 <div class="form-group">
+                    <label for="Email" class="form-label">Email</label>
+                    <input type="Email" class="form-control" name="Email" id="Email">
+                </div>
+                <div class="form-group">
+                    <label for="Address" class="form-label">Alamat</label>
+                    <input type="text" class="form-control" name="Address" id="Address">
+                </div>
+                <div class="form-group">
                     <label for="password" class="form-label">Password</label>
                     <input type="password" class="form-control" name="password" id="password">
                 </div>
-                <button class="form-button" type="button" id="login">Login</button>
+                <button class="form-button" type="submit" id="register">Register</button>
             </form>
-            <small class="bwh-button">Belum Punya akun <span class="masuk"><a href="<?php echo base_url('/register') ?>">Daftar Disini</a></span></small>
+            <small class="bwh-button">Sudah Punya akun <span class="masuk"><a href="<?php echo base_url('/') ?>">Masuk Disini</a></span></small>
         </div>
     </div>
 
@@ -38,8 +46,8 @@
     </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script>
-        document.getElementById('login').addEventListener('click', function() {
-            window.location.href = '/home';
+        document.getElementById('register').addEventListener('click', function() {
+            window.location.href = '/';
         });
     </script>
 </body>

@@ -67,4 +67,13 @@
     cursor: pointer;
     margin-top: 25px;
 }
-
+.bwh-button{
+    text-align: center;
+    font-size: 11px;
+    justify-content: center;
+    margin-top: 5px;
+}
+.masuk{
+    cursor: pointer;
+    color: #2487ce;
+}

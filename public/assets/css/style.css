@@ -2088,3 +2088,54 @@ section {
   line-height: 1.6;
   padding: 0 20px;
 }
+.container-sebelum{
+  margin-top: 90px;
+  padding: 0px 30px;
+}
+.op{
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.opp{
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.a table{
+  width: 50%;
+  text-align: center;
+}
+.b table{
+  width: 90%;
+  text-align: center;
+}
+.container-mau-hitung{
+  padding: 0px 100px;
+}
+.form-control{
+  background-color: #F0F4FD;
+}
+.form-label{
+  font-size: 16px;
+  font-weight: 700;
+}
+.form-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #2487ce;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.form-button:hover{
+  background-color: #1a6e9e;
+}
+.info{
+  margin-left: 5px;
+  cursor: pointer;
+}

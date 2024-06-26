@@ -61,7 +61,12 @@
                             <li><a href="<?php echo base_url('/desaGamplong') ?>">Desa Wisata Gamplong</a></li>
                         </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="<?php echo base_url('/pengembang') ?>">Perhitungan</a></li>
+                    <li class="dropdown"><a href="#"><span>Perhitungan</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a class="nav-link scrollto" href="<?php echo base_url('/petunjuk-Hitung') ?>">Kriteria & Sub Kriteria</a></li>
+                            <li><a class="nav-link scrollto" href="<?php echo base_url('/perhitungan') ?>">Hitung</a></li>
+                        </ul>
+                    </li>
                     <li><a class="nav-link scrollto" href="<?php echo base_url('/pengembang') ?>">Pengembang</a></li>
                     <li><a href="<?php echo base_url('/') ?>"><img src="assets/img/log.svg" alt="logout"></a></li>
                 </ul>
@@ -101,11 +106,17 @@
                         </ul>
                     </div>
 
-                    <div class="col-lg-4 col-md-4 footer-newsletter">
-                        <h4>Question</h4>
-                        <p>Jika Ada Pertanyaan bisa hubungi email dibawah ini</p>
+                    <div class="col-lg-4 col-md-4 footer-links">
+                        <h4>Desa Wisata</h4>
+                        <ul>
+                            <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('/desaNganggring') ?>">Desa Wisata Nganggring</a></li>
+                            <li><i class="bx bx-chevron-right"></i><a href="<?php echo base_url('/desaKelor') ?>">Desa Wisata Kelor</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('/desaKampungIklim') ?>">Desa Wisata Kampung Iklim Karangtanjung </a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('/desaPancoh') ?>">Desa Wisata Pancoh</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('/desaGamplong') ?>">Desa Wisata Gamplong</a></li>
+                        </ul>
                         <strong>
-                            andree111@yahoo.com
+
                         </strong>
                     </div>
 
