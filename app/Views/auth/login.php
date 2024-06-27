@@ -19,7 +19,7 @@
             </div>
             <form action="" method="POST">
                 <div class="form-group">
-                    <label for="name" class="form-label">Nama</label>
+                    <label for="name" class="form-label">Email</label>
                     <input type="text" class="form-control" id="name" name="name" required autofocus>
                 </div>
                 <div class="form-group">
