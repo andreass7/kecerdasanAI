@@ -2,9 +2,9 @@
 <?php $this->section('content') ?>
 
 <section class="petunjuk">
-    <div class="container-petunjuk d-flex justify-content-center">
-        <div class="row justify-content-center">
-            <div class="col-lg-4 col-sm-12" data-aos="zoom-in" data-aos-delay="200">
+    <div class="container-petunjuk text-center">
+        <div class="contain-a d-lg-flex">
+            <div class="" data-aos="zoom-in" data-aos-delay="200">
                 <div class="card-petunjuk">
                     <div class="card-header">
                         Home
@@ -16,7 +16,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-4 col-sm-12" data-aos="zoom-in" data-aos-delay="200">
+            <div class="" data-aos="zoom-in" data-aos-delay="200">
                 <div class="card-petunjuk2">
                     <div class="card-header">
                         Desa Wisata
@@ -27,18 +27,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-12" data-aos="zoom-in" data-aos-delay="200">
-                <div class="card-petunjuk2">
-                    <div class="card-header">
-                        Perhitungan
-                    </div>
-                    <hr>
-                    <div class="p-4">
-                        Menu untuk menghitung Desa Wisata Terfavorit atau tidak dengan metode Euclidean Distance
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-12" data-aos="zoom-in" data-aos-delay="200">
+            <div class="" data-aos="zoom-in" data-aos-delay="200">
                 <div class="card-petunjuk3">
                     <div class="card-header">
                         Pengembang
@@ -49,6 +38,33 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="row contain-baru">
+            <div class="col-lg-3"></div>
+            <div class="col-lg-6" data-aos="zoom-in" data-aos-delay="200">
+                <div class="card-petunjuk4">
+                    <div class="card-header">
+                        Perhitungan
+                    </div>
+                    <hr>
+                    <div class="isi p-2">
+                        Berikut merupakan petunjuk dalam melakukan analisis Desa Favorit atau Desa Tidak Favorit :
+                        <ol>
+                            <li>Navigasi <span class="fw-bolder"> Kriteria dan Sub Kriteria</span> merupakan sebuah isi data dan bobot yang digunakan dalam Prject ini</li>
+                            <li>Navigasi <span class="fw-bolder">Analisis </span>digunakan untuk melakukan analisis perhitungan Desa Favorit dan Desa TIdak Favorit</li>
+                        </ol>
+                        Langkah - Langkah Melakukan Perhitungan
+                        <ol>
+                            <li>Pergi ke navigasi Analisis</li>
+                            <li>Isi data melalu form yang disediakan </li>
+                            <li>Isi data sesuai keinginan anda </li>
+                            <li>Pastikan data semua terisi </li>
+                            <li>Klik Button Prediksi dan tunggu hasil yang akan muncul </li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3"></div>
         </div>
     </div>
 </section>

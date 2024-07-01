@@ -34,7 +34,7 @@
             <input type="text" class="form-control" id="nama_desa" name="nama_desa" placeholder="Masukkan Nama Desa" required>
         </div>
         <div class="form-group mb-3">
-            <label class="form-label" for="k1">Kriteria 1 (Pengunjung) <span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop"><img src="assets/img/infoo.svg" alt=""></span></label>
+            <label class="form-label" for="k1">Pengunjung <span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop"><img src="assets/img/infoo.svg" alt=""></span></label>
             <select class="form-control" aria-label="Default select example" id="k1" name="k1" required>
                 <option selected disabled>Silahkan Pilih</option>
                 <option value="1">Wisata Lokal</option>
@@ -43,7 +43,7 @@
             </select>
         </div>
         <div class="form-group mb-3">
-            <label class="form-label" for="k2">Kriteria 2 (Aktivitas Wisata)<span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop1"><img src="assets/img/infoo.svg" alt=""></span></label>
+            <label class="form-label" for="k2">Aktivitas Wisata<span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop1"><img src="assets/img/infoo.svg" alt=""></span></label>
             <select class="form-control" aria-label="Default select example" id="k2" name="k2" required>
                 <option selected disabled>Silahkan Pilih</option>
                 <option value="1">Rekreasi</option>
@@ -52,7 +52,7 @@
             </select>
         </div>
         <div class="form-group mb-3">
-            <label class="form-label" for="k3">Kriteria 3 (Pertunjukan Seni)<span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop2"><img src="assets/img/infoo.svg" alt=""></span></label>
+            <label class="form-label" for="k3">Pertunjukan Seni<span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop2"><img src="assets/img/infoo.svg" alt=""></span></label>
             <select class="form-control" aria-label="Default select example" id="k3" name="k3" required>
                 <option selected disabled>Silahkan Pilih</option>
                 <option value="1">
@@ -62,7 +62,7 @@
             </select>
         </div>
         <div class="form-group mb-3">
-            <label class="form-label" for="k4">Kriteria 4 (Alat Transportasi)<span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop3"><img src="assets/img/infoo.svg" alt=""></span></label>
+            <label class="form-label" for="k4">Alat Transportasi<span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop3"><img src="assets/img/infoo.svg" alt=""></span></label>
             <select class="form-control" aria-label="Default select example" id="k4" name="k4" required>
                 <option selected disabled>Silahkan Pilih</option>
                 <option value="3">Pribadi</option>
@@ -70,7 +70,7 @@
             </select>
         </div>
         <div class="form-group mb-3">
-            <label class="form-label" for="k5">Kriteria 5 (Fasilitas)<span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop4"><img src="assets/img/infoo.svg" alt=""></span></label>
+            <label class="form-label" for="k5">Fasilitas<span class="info" data-bs-toggle="modal" data-bs-target="#staticBackdrop4"><img src="assets/img/infoo.svg" alt=""></span></label>
             <select class="form-control" aria-label="Default select example" id="k5" name="k5" required>
                 <option selected disabled>Silahkan Pilih</option>
                 <option value="1">Kurang Lengkap</option>

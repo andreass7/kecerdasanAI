@@ -61,10 +61,10 @@
                             <li><a href="<?php echo base_url('/desaGamplong') ?>">Desa Wisata Gamplong</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown"><a href="#"><span>Perhitungan</span> <i class="bi bi-chevron-down"></i></a>
+                    <li class="dropdown"><a href="#"><span>Identifikasi</span> <i class="bi bi-chevron-down"></i></a>
                         <ul>
                             <li><a class="nav-link scrollto" href="<?php echo base_url('/petunjuk-Hitung') ?>">Kriteria & Sub Kriteria</a></li>
-                            <li><a class="nav-link scrollto" href="<?php echo base_url('/perhitungan') ?>">Hitung</a></li>
+                            <li><a class="nav-link scrollto" href="<?php echo base_url('/perhitungan') ?>">Analisis</a></li>
                         </ul>
                     </li>
                     <li><a class="nav-link scrollto" href="<?php echo base_url('/pengembang') ?>">Pengembang</a></li>
