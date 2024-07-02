@@ -27,4 +27,4 @@ $routes->get('/desaGamplong', 'desaController::gamplong');
 $routes->get('/desaKampungIklim', 'desaController::kampungIklim');
 
 // HITUNG
-$routes->POST('/hitung', 'hitung::predict');
+$routes->POST('/hitung', 'hitung::classify');

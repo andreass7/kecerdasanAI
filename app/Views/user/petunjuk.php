@@ -53,7 +53,7 @@
                             <li>Navigasi <span class="fw-bolder"> Kriteria dan Sub Kriteria</span> merupakan sebuah isi data dan bobot yang digunakan dalam Prject ini</li>
                             <li>Navigasi <span class="fw-bolder">Analisis </span>digunakan untuk melakukan analisis perhitungan Desa Favorit dan Desa TIdak Favorit</li>
                         </ol>
-                        Langkah - Langkah Melakukan Perhitungan
+                        <div class="fw-bolder">Langkah - Langkah Melakukan Perhitungan :</div>
                         <ol>
                             <li>Pergi ke navigasi Analisis</li>
                             <li>Isi data melalu form yang disediakan </li>

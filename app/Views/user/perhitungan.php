@@ -5,30 +5,6 @@
 <div class="container-mau-hitung mt-5" data-aos="fade-right" data-aos-delay="300">
     <h2 class="mb-3">Prediksi Desa Wisata Menggunakan Metode KNN Euclidian Distance</h2>
     <form method="post" action="/hitung">
-        <!-- <div class="form-group">
-            <label for="nama_desa">Nama Desa:</label>
-            <input type="text" class="form-control" id="nama_desa" name="nama_desa" required>
-        </div>
-        <div class="form-group">
-            <label for="k1">Kriteria 1:</label>
-            <input type="number" class="form-control" id="k1" name="k1" required>
-        </div>
-        <div class="form-group">
-            <label for="k2">Kriteria 2:</label>
-            <input type="number" class="form-control" id="k2" name="k2" required>
-        </div>
-        <div class="form-group">
-            <label for="k3">Kriteria 3:</label>
-            <input type="number" class="form-control" id="k3" name="k3" required>
-        </div>
-        <div class="form-group">
-            <label for="k4">Kriteria 4:</label>
-            <input type="number" class="form-control" id="k4" name="k4" required>
-        </div>
-        <div class="form-group">
-            <label for="k5">Kriteria 5:</label>
-            <input type="number" class="form-control" id="k5" name="k5" required>
-        </div> -->
         <div class="form-group mb-3">
             <label class="form-label" for="nama_desa">Nama Desa</label>
             <input type="text" class="form-control" id="nama_desa" name="nama_desa" placeholder="Masukkan Nama Desa" required>
