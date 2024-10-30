@@ -28,6 +28,11 @@
 
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet">
+    <!-- Link CSS Bootstrap -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
+
+
+
 
     <!-- =======================================================
   * Template Name: OnePage
@@ -44,30 +49,18 @@
     <header id="header" class="fixed-top">
         <div class="container d-flex align-items-center justify-content-between">
 
-            <h1 class="logo"></h1>
-            <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+            <!-- Menambahkan Logo di sini -->
+            <a href="<?php echo base_url('/home'); ?>" class="logo">
+                <img src="assets/img/log.png" alt="Logo" class="img-fluid" style="height: 100px;"> <!-- Sesuaikan ukuran jika perlu -->
+                BONSAI CO
+            </a>
 
             <nav id="navbar" class="navbar">
                 <ul>
                     <li><a class="nav-link scrollto" href="<?php echo base_url('/home'); ?>">Home</a></li>
                     <li><a class="nav-link scrollto" href="<?php echo base_url('/petunjuk') ?> ">Petunjuk</a></li>
-                    <li class="dropdown"><a href="#"><span>Desa Wisata</span> <i class="bi bi-chevron-down"></i></a>
-                        <ul>
-                            <li><a href="<?php echo base_url('/desaNganggring') ?>">Desa Wisata Nganggring</a></li>
-                            <li><a href="<?php echo base_url('/desaKelor') ?>">Desa Wisata Kelor</a></li>
-                            <li><a href="<?php echo base_url('/desaKampungIklim') ?>">Desa Wisata Kampung Iklim Karangtanjung </a></li>
-                            <li><a href="<?php echo base_url('/desaPancoh') ?>">Desa Wisata Pancoh</a></li>
-                            <li><a href="<?php echo base_url('/desaGamplong') ?>">Desa Wisata Gamplong</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown"><a href="#"><span>Identifikasi</span> <i class="bi bi-chevron-down"></i></a>
-                        <ul>
-                            <li><a class="nav-link scrollto" href="<?php echo base_url('/petunjuk-Hitung') ?>">Kriteria & Sub Kriteria</a></li>
-                            <li><a class="nav-link scrollto" href="<?php echo base_url('/perhitungan') ?>">Analisis</a></li>
-                        </ul>
-                    </li>
                     <li><a class="nav-link scrollto" href="<?php echo base_url('/pengembang') ?>">Pengembang</a></li>
+                    <li><a class="nav-link scrollto" href="<?php echo base_url('/pengembang') ?>">Gejala dan Solusi</a></li>
                     <li><a href="<?php echo base_url('/') ?>"><img src="assets/img/log.svg" alt="logout"></a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
@@ -75,6 +68,7 @@
 
         </div>
     </header><!-- End Header -->
+
 
     <main id="main">
         <?php $this->renderSection('content'); ?>
@@ -105,7 +99,7 @@
                             <li><i class="bx bx-chevron-right"></i> <a href="<?php echo base_url('/pengembang') ?>">Pengembang</a></li>
                         </ul>
                     </div>
-
+                    <!-- 
                     <div class="col-lg-4 col-md-4 footer-links">
                         <h4>Desa Wisata</h4>
                         <ul>
@@ -118,7 +112,7 @@
                         <strong>
 
                         </strong>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
@@ -143,6 +137,14 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- JS Bootstrap -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Script untuk animasi -->
+    <script src="path/to/your/animation.js"></script>
 </body>
 
 </html>
